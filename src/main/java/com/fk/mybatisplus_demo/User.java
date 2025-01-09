@@ -25,6 +25,7 @@ public class User {
 
     private Integer age;
 
+    // 省略getter和setter
     public String getName() {
         return name;
     }
